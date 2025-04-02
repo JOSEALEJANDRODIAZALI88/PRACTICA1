@@ -1,0 +1,6 @@
+com\PRACTICA1\controller\EstudianteController.class
+com\PRACTICA1\repository\EstudianteRepository.class
+com\PRACTICA1\service\EstudianteService.class
+com\PRACTICA1\dto\EstudianteDTO.class
+com\PRACTICA1\model\Estudiante.class
+com\PRACTICA1\Practica1Application.class
