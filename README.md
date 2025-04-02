@@ -14,7 +14,7 @@ Este proyecto es una API REST desarrollada con **Spring Boot**, que permite gest
 ## 📁 Estructura del Proyecto
 
 ```
-📦 src/main/java/com\PRACTICA1
+📦 src/main/java/com/PRACTICA1
  ┣ 📂 controller    # Controlador con los endpoints REST
  ┣ 📂 service       # Lógica de negocio
  ┣ 📂 repository    # Acceso a datos (simulado en memoria)
